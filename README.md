@@ -64,7 +64,7 @@ ka.zs
 
 py 文件地址： examples/combine_with_tushare.py
 
-没有 token，到 https://tushare.pro/register?reg=7 注册下
+没有 token，到 https://tushare.pro/register?reg=357214 注册下
 
 ```python
 import tushare as ts
